@@ -1,0 +1,27 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: "Poppins";
+}
+
+#buttoncontainer {
+    text-align: center;
+    font-family: "Poppins";
+
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    font-family: "Poppins";
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+ }
+
+ .buttons:hover {
+    background-color: blue
+ }
